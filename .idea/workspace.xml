@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662587b1-5cb9-427d-9b5a-e05c04215e65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/DateTimeAPIExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/DeadlockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/JavaConcurrentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ThreadConcurencyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
