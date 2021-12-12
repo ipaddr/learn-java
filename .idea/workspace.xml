@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662587b1-5cb9-427d-9b5a-e05c04215e65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/InternationalizationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/JDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ResourcesBundleAndMessaageFormatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/DataSources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/DateTimeAPIExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/DeadlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/JavaConcurrentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ThreadConcurencyExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +55,9 @@
       <recent name="D:\Iip Permana\One Indonesia\Java Spring\Code\learn-java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ResourcesBundleAndMessaageFormatExample">
-    <configuration name="InternationalizationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.InternationalizationExample" />
+  <component name="RunManager" selected="Application.DeadlockExample">
+    <configuration name="DateTimeAPIExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.DateTimeAPIExample" />
       <module name="learn-java" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.JDBCExample" />
+    <configuration name="DeadlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.DeadlockExample" />
       <module name="learn-java" />
       <extension name="coverage">
         <pattern>
@@ -87,25 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRBDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.LRBDemo" />
+    <configuration name="JavaConcurrentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.JavaConcurrentExample" />
       <module name="learn-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.todo.Main" />
-      <module name="learn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.todo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +97,19 @@
     </configuration>
     <configuration name="ResourcesBundleAndMessaageFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.ResourcesBundleAndMessaageFormatExample" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadConcurencyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.ThreadConcurencyExample" />
       <module name="learn-java" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadlockExample" />
+        <item itemvalue="Application.JavaConcurrentExample" />
+        <item itemvalue="Application.ThreadConcurencyExample" />
+        <item itemvalue="Application.DateTimeAPIExample" />
         <item itemvalue="Application.ResourcesBundleAndMessaageFormatExample" />
-        <item itemvalue="Application.LRBDemo" />
-        <item itemvalue="Application.InternationalizationExample" />
-        <item itemvalue="Application.JDBCExample" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
