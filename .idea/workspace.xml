@@ -5,96 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662587b1-5cb9-427d-9b5a-e05c04215e65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/learn_java.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/out/production/HelloWorld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/ByteShortIntlongExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/ChildOfOOPExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/EnumExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/ExceptionHandlingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/FinalClassExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/FloatDoubleExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/ForLoopExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/IfElseConditionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/InterfaceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/OOPExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/StringExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/TernaryExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/HelloWorld/src/WhileDoWhileExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/ArrayExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/CollectionIterableIteratorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/DateExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/GenericExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/InvariantAndCovariantAndContraVariantExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/LambaExpressionCollectionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/LazyLoadingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/ListAndImmutableListAndSetExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/MapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/NumberAndBigNumberExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/RuntimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/StringAndStringBufferAndStringBuilderExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/SystemClassExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/UUIDExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ArrayExample$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ArrayExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ByteShortIntlongExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ChildOfOOPExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/CollectionIterableIteratorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ContactList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ContactListImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ContactListProxyImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/DateExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/EnumExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/EnumExample$Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/EnumExample$WheelNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/EnumExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ExceptionHandlingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/FinalClassExample$newTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/FinalClassExample$newTestAgain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/FinalClassExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/FloatDoubleExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ForLoopExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/FuncInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/GenericExample$Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/GenericExample$TestMultiple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/GenericExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/IfElseConditionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/InterfaceExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/InvariantAndCovariantAndContraVariantExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/LambaExpressionCollectionExample$FuncInter1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/LambaExpressionCollectionExample$FuncInter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/LambaExpressionCollectionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/LazyLoadingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/ListAndImmutableListAndSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/MapExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/NumberAndBigNumberExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/OOPExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/RuntimeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/StringAndStringBufferAndStringBuilderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/StringExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/SystemClassExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/TernaryExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/UUIDExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/WhileDoWhileExample.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/InternationalizationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/JDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ResourcesBundleAndMessaageFormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/DataSources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/todo/TodoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +21,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="227kR7u1DoK0QJ7yUvz7vJB6f3C" />
   <component name="ProjectViewState">
@@ -114,12 +48,84 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ResourceBundleExample/ResourceBundleTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Iip Permana\One Indonesia\Java Spring\Code\learn-java\src\main\resources" />
+      <recent name="D:\Iip Permana\One Indonesia\Java Spring\Code\learn-java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ResourcesBundleAndMessaageFormatExample">
+    <configuration name="InternationalizationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.InternationalizationExample" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.JDBCExample" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRBDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.LRBDemo" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.todo.Main" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourcesBundleAndMessaageFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.oneindoensia.javabootcamp.day3.ResourcesBundleAndMessaageFormatExample" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.oneindoensia.javabootcamp.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,6 +137,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResourcesBundleAndMessaageFormatExample" />
+        <item itemvalue="Application.LRBDemo" />
+        <item itemvalue="Application.InternationalizationExample" />
+        <item itemvalue="Application.JDBCExample" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -154,5 +169,31 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ResourcesBundleAndMessaageFormatExample.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ResourcesBundleAndMessaageFormatExample.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/id/oneindoensia/javabootcamp/day3/ResourcesBundleAndMessaageFormatExample.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="resultSet.getInt(1)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
