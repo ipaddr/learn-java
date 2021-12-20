@@ -12,6 +12,9 @@ public class TodoRepository {
     }
 
     public void insertTodo(Todo todo){
+        if (todo == null){
+            throw new NullPointerException("Di kelas TodoRepository ada todo yang null");
+        }
         dataSources.insert(todo);
     }
 
