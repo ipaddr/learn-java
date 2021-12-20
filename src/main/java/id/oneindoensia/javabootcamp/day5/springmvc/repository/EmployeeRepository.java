@@ -11,7 +11,7 @@ import java.util.Map;
 @Repository
 public class EmployeeRepository {
 
-    private Map<Integer, Employee> employeeMap = new HashMap<>();
+    private TreeMap<Integer, Employee> employeeMap = new TreeMap<>();
 
     public EmployeeRepository(){
         Employee employee = new Employee(1, "John", "Doe", "johndoe@domain.com");
