@@ -20,7 +20,7 @@ public class EmployeeRepository {
     }
 
     public void insertEmployeeToDB(Employee employee){
-        employee.setId(employeeMap.size() + 1);
+        employee.setId(employeeMap.lastKey() + 1);
         employeeMap.put(employee.getId(), employee);
     }
 
