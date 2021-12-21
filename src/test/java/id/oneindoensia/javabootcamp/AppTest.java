@@ -12,11 +12,11 @@ import id.oneindoensia.javabootcamp.day4.beanvalidation.container.Entry;
 import id.oneindoensia.javabootcamp.day4.beanvalidation.extractor.DataValueExtractor;
 import id.oneindoensia.javabootcamp.day4.beanvalidation.extractor.EntryKeyExtractor;
 import id.oneindoensia.javabootcamp.day4.beanvalidation.extractor.EntryValueExtractor;
-import jakarta.validation.ConstraintViolation;
-import jakarta.validation.Validation;
-import jakarta.validation.Validator;
-import jakarta.validation.ValidatorFactory;
-import jakarta.validation.executable.ExecutableValidator;
+import javax.validation.ConstraintViolation;
+import javax.validation.Validation;
+import javax.validation.Validator;
+import javax.validation.ValidatorFactory;
+import javax.validation.executable.ExecutableValidator;
 import org.junit.Test;
 
 import java.lang.reflect.Constructor;

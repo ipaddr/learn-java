@@ -11,7 +11,7 @@ import org.springframework.validation.DataBinder;
 import org.springframework.validation.beanvalidation.SpringValidatorAdapter;
 import org.springframework.web.bind.annotation.*;
 
-import jakarta.validation.*;
+import javax.validation.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;

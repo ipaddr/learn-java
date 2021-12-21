@@ -1,4 +1,4 @@
-package id.oneindoensia.javabootcamp.day5.springrest;
+package id.oneindoensia.javabootcamp.day6.springrest;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

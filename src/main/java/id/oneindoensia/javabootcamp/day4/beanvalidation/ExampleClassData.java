@@ -1,8 +1,8 @@
 package id.oneindoensia.javabootcamp.day4.beanvalidation;
 
 import id.oneindoensia.javabootcamp.day4.beanvalidation.container.Data;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
 
 public class ExampleClassData {
 

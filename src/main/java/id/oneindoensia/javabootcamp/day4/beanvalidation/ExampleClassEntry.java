@@ -1,7 +1,7 @@
 package id.oneindoensia.javabootcamp.day4.beanvalidation;
 
 import id.oneindoensia.javabootcamp.day4.beanvalidation.container.Entry;
-import jakarta.validation.constraints.NotBlank;
+import javax.validation.constraints.NotBlank;
 
 public class ExampleClassEntry {
     private Entry<@NotBlank(message = "Entry key must not blank")

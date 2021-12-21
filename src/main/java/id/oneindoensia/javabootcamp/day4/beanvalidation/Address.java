@@ -1,6 +1,6 @@
 package id.oneindoensia.javabootcamp.day4.beanvalidation;
 
-import jakarta.validation.constraints.NotBlank;
+import javax.validation.constraints.NotBlank;
 
 public class Address {
 

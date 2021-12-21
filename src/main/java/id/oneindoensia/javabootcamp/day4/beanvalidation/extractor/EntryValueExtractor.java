@@ -1,8 +1,8 @@
 package id.oneindoensia.javabootcamp.day4.beanvalidation.extractor;
 
 import id.oneindoensia.javabootcamp.day4.beanvalidation.container.Entry;
-import jakarta.validation.valueextraction.ExtractedValue;
-import jakarta.validation.valueextraction.ValueExtractor;
+import javax.validation.valueextraction.ExtractedValue;
+import javax.validation.valueextraction.ValueExtractor;
 
 public class EntryValueExtractor implements ValueExtractor<Entry<?, @ExtractedValue ?>> {
     @Override
