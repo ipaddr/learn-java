@@ -37,6 +37,11 @@ public class EmployeeRepository {
     }
 
     public List<Employee> findAllEmployeesFromDB(){
+//        List<Employee> employees = new ArrayList<>();
+//        for (Employee s: employeeMap.values()) {
+//            employees.add(s);
+//        }
+//        return employees;
         return employeeMap.values().stream().toList();
     }
 
